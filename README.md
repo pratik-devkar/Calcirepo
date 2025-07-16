@@ -8,3 +8,4 @@ Feature
 4-Div
 
 input is given by user
+perform calculation
